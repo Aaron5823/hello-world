@@ -1,3 +1,4 @@
 # hello-world
 My first code on github
-# H1 Hello, my name is Aaron and I am a computer science major.
+#  Hello, my name is Aaron and I am a computer science major.
+## I hope to do well in all my classes
